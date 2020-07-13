@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fretboard-quiz/static/css/main.e8355ea8.chunk.css",
+    "main.js": "/fretboard-quiz/static/js/main.1a55e40a.chunk.js",
+    "main.js.map": "/fretboard-quiz/static/js/main.1a55e40a.chunk.js.map",
+    "runtime-main.js": "/fretboard-quiz/static/js/runtime-main.9ebc0550.js",
+    "runtime-main.js.map": "/fretboard-quiz/static/js/runtime-main.9ebc0550.js.map",
+    "static/js/2.5ff958fe.chunk.js": "/fretboard-quiz/static/js/2.5ff958fe.chunk.js",
+    "static/js/2.5ff958fe.chunk.js.map": "/fretboard-quiz/static/js/2.5ff958fe.chunk.js.map",
+    "index.html": "/fretboard-quiz/index.html",
+    "precache-manifest.c75b573dfa93214d0177a2830b2a80b6.js": "/fretboard-quiz/precache-manifest.c75b573dfa93214d0177a2830b2a80b6.js",
+    "service-worker.js": "/fretboard-quiz/service-worker.js",
+    "static/css/main.e8355ea8.chunk.css.map": "/fretboard-quiz/static/css/main.e8355ea8.chunk.css.map",
+    "static/js/2.5ff958fe.chunk.js.LICENSE.txt": "/fretboard-quiz/static/js/2.5ff958fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ebc0550.js",
+    "static/js/2.5ff958fe.chunk.js",
+    "static/css/main.e8355ea8.chunk.css",
+    "static/js/main.1a55e40a.chunk.js"
+  ]
+}
