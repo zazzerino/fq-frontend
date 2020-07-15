@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/fretboard-quiz/static/css/main.b013fc52.chunk.css",
-    "main.js": "/fretboard-quiz/static/js/main.2a7ace98.chunk.js",
-    "main.js.map": "/fretboard-quiz/static/js/main.2a7ace98.chunk.js.map",
+    "main.css": "/fretboard-quiz/static/css/main.c60e5df8.chunk.css",
+    "main.js": "/fretboard-quiz/static/js/main.4ff98399.chunk.js",
+    "main.js.map": "/fretboard-quiz/static/js/main.4ff98399.chunk.js.map",
     "runtime-main.js": "/fretboard-quiz/static/js/runtime-main.9ebc0550.js",
     "runtime-main.js.map": "/fretboard-quiz/static/js/runtime-main.9ebc0550.js.map",
     "static/js/2.76659f47.chunk.js": "/fretboard-quiz/static/js/2.76659f47.chunk.js",
     "static/js/2.76659f47.chunk.js.map": "/fretboard-quiz/static/js/2.76659f47.chunk.js.map",
     "index.html": "/fretboard-quiz/index.html",
-    "precache-manifest.3c2b90bdee2d4ae18615ee5619730a97.js": "/fretboard-quiz/precache-manifest.3c2b90bdee2d4ae18615ee5619730a97.js",
+    "precache-manifest.bc986ea47a1a28b57a6a87854d486b46.js": "/fretboard-quiz/precache-manifest.bc986ea47a1a28b57a6a87854d486b46.js",
     "service-worker.js": "/fretboard-quiz/service-worker.js",
-    "static/css/main.b013fc52.chunk.css.map": "/fretboard-quiz/static/css/main.b013fc52.chunk.css.map",
+    "static/css/main.c60e5df8.chunk.css.map": "/fretboard-quiz/static/css/main.c60e5df8.chunk.css.map",
     "static/js/2.76659f47.chunk.js.LICENSE.txt": "/fretboard-quiz/static/js/2.76659f47.chunk.js.LICENSE.txt",
     "static/media/smb_bowserfalls.wav": "/fretboard-quiz/static/media/smb_bowserfalls.38e18822.wav",
     "static/media/smb_coin.wav": "/fretboard-quiz/static/media/smb_coin.a3676413.wav"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.9ebc0550.js",
     "static/js/2.76659f47.chunk.js",
-    "static/css/main.b013fc52.chunk.css",
-    "static/js/main.2a7ace98.chunk.js"
+    "static/css/main.c60e5df8.chunk.css",
+    "static/js/main.4ff98399.chunk.js"
   ]
 }

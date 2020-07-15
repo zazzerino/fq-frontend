@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf8eaf7718499224f5c304d461d3f967",
+    "revision": "13707c9153a147b859dbacb70be61ba0",
     "url": "/fretboard-quiz/index.html"
   },
   {
-    "revision": "113efa18c19f5840409c",
-    "url": "/fretboard-quiz/static/css/main.b013fc52.chunk.css"
+    "revision": "edc9adfbdc661e101ff5",
+    "url": "/fretboard-quiz/static/css/main.c60e5df8.chunk.css"
   },
   {
     "revision": "fec193b39cd5a9adfa5e",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fretboard-quiz/static/js/2.76659f47.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "113efa18c19f5840409c",
-    "url": "/fretboard-quiz/static/js/main.2a7ace98.chunk.js"
+    "revision": "edc9adfbdc661e101ff5",
+    "url": "/fretboard-quiz/static/js/main.4ff98399.chunk.js"
   },
   {
     "revision": "1187fd4182e806dc2ccf",
